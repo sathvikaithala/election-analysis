@@ -36,6 +36,13 @@ Diana DeGette with 272,892 votes (73.8%)
 
 ## Challenge Overview:
 
+In the challenge section of this module, we were tasked with breaking down the voter turnout by county, in addition to determining the votes by candidate, and the winner of the popular vote.
+
+### In order to do this, we went through the following steps:
+1) Calculate the number of counties
+2) Calculate the number of votes from each county
+3) Calculate the percentage of votes from each county
+4) Determine the county with the largest voter turnout
 
 ## Challenge Summary:
 
