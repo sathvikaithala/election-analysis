@@ -1,6 +1,8 @@
 # Election Analysis
 UC Berkeley Extension Data Analytics Boot Camp Module 3 (Challenge below)
 
+---
+
 ## Project Overview
 
 We were tasked with calculating and reporting the results of a local election.
@@ -32,6 +34,7 @@ Raymon Anthony Doane: 3.1% (11,606)
 ### Winner: 
 Diana DeGette with 272,892 votes (73.8%)
 
+---
 
 
 ## Challenge Overview:
@@ -46,3 +49,5 @@ In the challenge section of this module, we were tasked with breaking down the v
 
 ## Challenge Summary:
 
+
+---
