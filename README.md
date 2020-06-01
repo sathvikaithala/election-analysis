@@ -18,7 +18,7 @@ Data Source: election_results.csv (Module 3)
 
 Software: Python 3.7.1, Visual Studio Code 1.45.1
 
-## Summary
+## Summary:
 
 ### Election Results:
 
