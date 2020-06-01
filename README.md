@@ -15,6 +15,7 @@ We were tasked with calculating and reporting the results of a local election.
 ## Resources:
 
 Data Source: election_results.csv (Module 3)
+
 Software: Python 3.7.1, Visual Studio Code 1.45.1
 
 ## Summary
