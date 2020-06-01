@@ -19,20 +19,18 @@ Software: Python 3.7.1, Visual Studio Code 1.45.1
 
 ## Summary
 
-### The election results are as follows:
+### Election Results:
 
-Election Results
--------------------------
-Total Votes: 369,711
--------------------------
+### Total Votes: 369,711
+
+### Candidates:
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+
+### Winner: 
+Diana DeGette with 272,892 votes (73.8%)
+
 
 
 ## Challenge Overview:
