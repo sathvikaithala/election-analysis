@@ -49,5 +49,14 @@ In the challenge section of this module, we were tasked with breaking down the v
 
 ## Challenge Summary:
 
+### County Votes:
+Jefferson: 10.5% (38,855)
+
+Denver: 82.8% (306,055)
+
+Arapahoe: 6.7% (24,801)
+
+### Largest County Turnout: 
+Denver
 
 ---
